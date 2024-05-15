@@ -24,4 +24,3 @@
     per-stage, or whether, since FD and BF work with the
     same values, whatever is being derived is universal (and
     find out why, if possible.)
-- Restore full Tauri support by fixing SSR.
